@@ -1,3 +1,2 @@
-My life my choices updated
-This is my second readme updated
-This is my second readme updated
+My life my choices 
+This is my second readme updated 
